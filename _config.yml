@@ -21,10 +21,10 @@
 title: TO
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-Life isn’t worth living, unless it is lived for someone else..
+  Paths are made by walking.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ----
+twitter_username: ---
 github_username:  takashiokd
 
 # Build settings
