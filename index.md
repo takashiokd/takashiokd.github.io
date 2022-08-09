@@ -13,3 +13,6 @@ Evolutionary biology, Biophysics, complex networks
 
 ![image](/assets/images/cy.jpg){:height="500px" width="500px"}
 
+
+[Google scholar profile](https://scholar.google.com/citations?user=OmVWsEsAAAAJ&hl=en){:target="_blank"}
+
