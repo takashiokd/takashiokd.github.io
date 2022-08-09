@@ -45,6 +45,7 @@ classes: wide
 
 1. Y. Hirono, T. Okada, H. Miyazaki, and Y. Hidaka  Structural reduction of chemical reaction networks based on topology. 3.4 (2021): 043123.
 
+1. T. Okada, et al. Origin of diverse phosphorylation patterns in the ERBB system. Biophysical Journal 121.3 (2022): 470-480.
 
 <!--1. T. Okada, ``Ligand-concentration sensitivity of a multi-state receptor, arXiv:1706.08346. -->
 
