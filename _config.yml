@@ -46,7 +46,10 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-google_search_console_verification_file
 
+google_search_console: #https://github.com/erikw/jekyll-google_search_console_verification_file
+  verification_file_code: 279e325e2f0ddfd 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
