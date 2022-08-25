@@ -41,7 +41,7 @@ include:
 
 
 
-#google_analytics: UA-238601141-1
+google_analytics: UA-238601141-1
 
 plugins:
   - jekyll-paginate
