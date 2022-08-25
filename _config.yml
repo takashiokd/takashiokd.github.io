@@ -41,7 +41,7 @@ include:
 
 
 
-google_analytics: UA-238601141-1
+#google_analytics: UA-238601141-1
 
 plugins:
   - jekyll-paginate
@@ -50,11 +50,11 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-google_search_console_verification_file
+#  - jekyll-google_search_console_verification_file
   
 
-google_search_console: 
-  verification_file_code: e279e325e2f0ddfd
+# google_search_console: 
+#   verification_file_code: e279e325e2f0ddfd
 
 # Exclude from processing.
 # The following items will not be processed, by default.
