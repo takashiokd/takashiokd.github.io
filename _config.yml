@@ -23,8 +23,10 @@ include:
   - _pages
 header_pages:
   - _pages/publications.md
+  - _pages/CV.md
   - _pages/research.md
   - _pages/research_jp.md
+
 
 
 # Analytics
