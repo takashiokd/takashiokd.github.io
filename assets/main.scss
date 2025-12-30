@@ -1,0 +1,35 @@
+---
+---
+
+@import "minima";
+
+/* 1) site-wide subtle background */
+body{
+  background: linear-gradient(135deg,
+    rgba(242, 211, 9, 0.45) 0%,
+    rgba(242, 211, 9, 0.22) 50%,
+    rgba(255, 255, 255, 1.00) 92%
+  );
+}
+/* keep header/footer clean */
+.site-header,
+.site-footer {
+  background: #ffffff;
+}
+
+
+.page-content .wrapper {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 24px 20px;
+  box-shadow: 6px 6px 0 rgba(168, 143, 2, 0.35);
+}
+
+
+/* small-screen padding */
+@media (max-width: 600px) {
+  .page-content .wrapper {
+    padding: 18px 14px;
+    border-radius: 14px;
+  }
+}
