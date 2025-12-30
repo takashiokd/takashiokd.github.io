@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-1. T.Okada, G. Isacchini, Q. Yu, & O. Hallatschek. (2025). Uncovering heterogeneous intercommunity disease transmission from neutral allele frequency time series. Proceedings of the National Academy of Sciences, 122(48), e2500663122.
+1. T. Okada, G. Isacchini, Q. Yu, & O. Hallatschek. (2025). Uncovering heterogeneous intercommunity disease transmission from neutral allele frequency time series. Proceedings of the National Academy of Sciences, 122(48), e2500663122.
 
 
 1. Y. J. Huang, T. Okada and A. Mochizuki, Uncovering Bifurcation Behaviors of Biochemical Reaction Systems from Network Topology, Sci. Rep. 15, 27596 (2025).
