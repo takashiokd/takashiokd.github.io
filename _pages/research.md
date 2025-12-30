@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Research
-permalink: /Research_en/
+permalink: /research/
 ---
+
+---------------------------
 
 ## Network structure and control responses in chemical reaction networks
 
