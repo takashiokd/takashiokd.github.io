@@ -63,10 +63,11 @@ layout: home
       Research overview in Japanese
     </div>
     <div style="margin-top:0.7rem;">
-      <a href="{{ '/Research_jp/' | relative_url }}">→ 研究概要</a>
+      <a href="{{ '/research_jp/' | relative_url }}">→ 研究概要</a>
     </div>
   </div>
 </div>
+
 
 <div style="height: 10px;"></div>
 
