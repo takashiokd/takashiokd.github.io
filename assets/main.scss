@@ -4,19 +4,14 @@
 @import "minima";
 
 /* 1) site-wide subtle background */
+
 body{
   background: linear-gradient(135deg,
-    rgba(242, 211, 9, 0.45) 0%,
-    rgba(242, 211, 9, 0.22) 50%,
-    rgba(255, 255, 255, 1.00) 92%
+    rgba(242, 211, 9, 0.506) 0%,
+    rgba(242, 211, 9, 0.308) 50%,
+    rgba(255, 242, 0, 0.114) 92%
   );
 }
-/* keep header/footer clean */
-.site-header,
-.site-footer {
-  background: #ffffff;
-}
-
 
 .page-content .wrapper {
   background: #ffffff;
@@ -24,6 +19,31 @@ body{
   padding: 24px 20px;
   box-shadow: 6px 6px 0 rgba(168, 143, 2, 0.35);
 }
+
+
+/*
+body{
+  background: linear-gradient(135deg,
+    rgba(6, 56, 254, 0.463) 0%,
+    rgba(39, 75, 134, 0.427) 45%,
+    rgba(210, 211, 214, 0.689) 92%
+  );
+}
+.page-content .wrapper{
+    background: #ffffff;
+  border-radius: 16px;
+  padding: 24px 20px;
+  box-shadow: 6px 6px 0 rgba(142, 143, 145, 0.25);
+}
+*/
+
+/* keep header/footer clean */
+.site-header,
+.site-footer {
+  background: #ffffff;
+}
+
+
 
 
 /* small-screen padding */
