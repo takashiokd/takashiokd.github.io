@@ -31,11 +31,15 @@ Institute for Frontier Life and Medical Sciences (IFOM), Kyoto University, Japan
 ## Academic and Research Positions
 
 - **Associate Professor**  
-  Institute for Frontier Life and Medical Sciences (IFOM), Kyoto University  
+   Graduate School of Integrated Sciences for Life, Hiroshima University  
+  *2026-*
+
+- **Associate Professor**  
+  Institute for Frontier Life and Medical Sciences, Kyoto University  
   *2023 – 2025*
 
 - **Program-Specific Associate Professor**  
-  Institute for Frontier Life and Medical Sciences (IFOM), Kyoto University  
+  Institute for Frontier Life and Medical Sciences, Kyoto University  
   *2022 – 2023*
 
 - **Senior Research Scientist**  
