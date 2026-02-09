@@ -6,9 +6,18 @@ layout: home
   <img src="{{ '/assets/images/haplotypes.jpg' | relative_url }}"
        alt="Haplotype-frequency dynamics of seasonal influenza virus"
        style="display:block; width:100%; height:auto;">
-  <div style="position:absolute; left:12px; bottom:12px; padding:6px 10px; font-size:0.9rem; color:white;
-              background:rgba(0,0,0,0.45); border-radius:10px; backdrop-filter: blur(2px);">
-    Not art — haplotype-frequency dynamics of seasonal influenza virus.
+  <div style="
+      position:absolute; right:10px; bottom:10px;
+      font-size:0.5rem;
+      font-style:italic;
+      color:rgba(255,255,255,0.92);
+      background:rgba(0,0,0,0.28);
+      padding:4px 7px;
+      border-radius:10px;
+      line-height:1.15;
+      pointer-events:none;
+    ">
+    Not art — haplotype-frequency dynamics of seasonal influenza virus
   </div>
 </div>
 
@@ -23,6 +32,11 @@ layout: home
   <p style="font-size:1.05rem; margin-top:0.65rem; max-width: 52rem;">
     I’m interested in biological physics: how simple, predictive laws emerge from messy microscopic interactions. I develop theory and inference tools for networked biochemical and evolutionary systems—linking connectivity to robustness and multistability in chemical reaction networks, characterizing non-classical drift in populations with extreme reproductive variability, and inferring transmission structure from viral allele-frequency time series. I also study information flow in stochastic control networks, aiming for analytic and interpretable descriptions of neural networks.
   </p>
+
+
+<p style="font-size:1.05rem; margin-top:0.65rem; max-width: 52rem;">
+    I received my Ph.D. in Physics from Kyoto University (2013), after completing my M.Sc. (2009) and B.Sc. (2007) in Physics at the University of Tokyo. I was at RIKEN from 2014 to 2022, then held faculty positions at Kyoto University (2022–2025), and I am currently an Associate Professor at Hiroshima University (as of 2026). I was also a Visiting Researcher at UC Berkeley (Hallatschek Lab, 2018–2022).
+      </p>
 
   <div style="font-size:0.95rem; opacity:0.9; margin-top:0.6rem;">
     <strong>Research interests</strong>
