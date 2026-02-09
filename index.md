@@ -2,6 +2,13 @@
 layout: home
 ---
 
+<div style="border-radius:16px; overflow:hidden; border:1px solid #eee; margin: 0.8rem 0 0.8rem 0;">
+  <img src="{{ '/assets/images/haplotypes.jpg' | relative_url }}"
+       alt="Haplotype dynamics"
+       style="display:block; width:100%; height:auto;">
+</div>
+
+
 <div style="padding: 1.2rem 0 0.6rem 0;">
   <h1 style="margin-bottom:0.15rem;">Takashi Okada</h1>
 
@@ -71,11 +78,6 @@ layout: home
 
 <div style="height: 10px;"></div>
 
-<div style="border-radius:16px; overflow:hidden; border:1px solid #eee; margin: 0.8rem 0 0.8rem 0;">
-  <img src="{{ '/assets/images/haplotypes.jpg' | relative_url }}"
-       alt="Haplotype dynamics"
-       style="display:block; width:100%; height:auto;">
-</div>
 
 <!-- 
 <div style="font-size:0.9rem; opacity:0.75;">
