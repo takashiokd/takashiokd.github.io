@@ -2,10 +2,14 @@
 layout: home
 ---
 
-<div style="border-radius:16px; overflow:hidden; border:1px solid #eee; margin: 0.8rem 0 0.8rem 0;">
+<div style="position:relative; border-radius:16px; overflow:hidden; border:1px solid #eee; margin:0.8rem 0;">
   <img src="{{ '/assets/images/haplotypes.jpg' | relative_url }}"
-       alt="Haplotype dynamics"
+       alt="Haplotype-frequency dynamics of seasonal influenza virus"
        style="display:block; width:100%; height:auto;">
+  <div style="position:absolute; left:12px; bottom:12px; padding:6px 10px; font-size:0.9rem; color:white;
+              background:rgba(0,0,0,0.45); border-radius:10px; backdrop-filter: blur(2px);">
+    Not art — haplotype-frequency dynamics of seasonal influenza virus.
+  </div>
 </div>
 
 
