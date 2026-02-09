@@ -10,7 +10,7 @@ layout: home
   </div>
 
   <p style="font-size:1.05rem; margin-top:0.65rem; max-width: 52rem;">
-    I study biological phenomena from a theoretical physics perspective.
+    I’m interested in biological physics: how simple, predictive laws emerge from messy microscopic interactions. I develop theory and inference tools for networked biochemical and evolutionary systems—linking connectivity to robustness and multistability in chemical reaction networks, characterizing non-classical drift in populations with extreme reproductive variability, and inferring transmission structure from viral allele-frequency time series. I also study information flow in stochastic control networks, aiming for analytic and interpretable descriptions of neural networks.
   </p>
 
   <div style="font-size:0.95rem; opacity:0.9; margin-top:0.6rem;">

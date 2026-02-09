@@ -7,7 +7,7 @@ permalink: /cv/
 ## Takashi Okada, PhD
 
 Associate Professor  
-Institute for Frontier Life and Medical Sciences (IFOM), Kyoto University, Japan  
+Graduate School of Integrated Sciences for Life, Hiroshima University, Japan  
 
 ---
 
