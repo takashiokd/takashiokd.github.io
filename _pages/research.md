@@ -57,7 +57,7 @@ Such non-classical evolutionary laws are now beginning to be observed in fast-ev
 
 ## Inferring Viral Transmission Pathways from Allele Frequency Time-Series Data
 
-![image-left](/assets/images/who_infected_whom.jpg.jpg){:height="250px" width="600px"}
+![image-left](/assets/images/who_infected_whom.jpg){:height="250px" width="600px"}
 
 The COVID-19 pandemic has renewed awareness of the importance of interregional transmission, namely how pathogens spread across geographic regions.
 Traditionally, transmission has been inferred from human mobility data and contact histories; however, it has been difficult to capture rare transmission events occurring between socially or geographically distant regions.
