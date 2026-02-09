@@ -51,9 +51,30 @@ Such non-classical evolutionary laws are now beginning to be observed in fast-ev
 
 ### References
 - [Genetics 219(4) (2021)](https://academic.oup.com/genetics/article/219/4/iyab135/6363801)
-- [PLOS Pathogens 20(4), e1012090 (2024)](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012090)
-- [PNAS 122(48), e2500663122 (2025)](https://www.pnas.org/doi/10.1073/pnas.2500663122)
+
+
+---------------------------
+
+## Inferring Viral Transmission Pathways from Allele Frequency Time-Series Data
+
+![image-left](/assets/images/who_infected_whom.jpg.jpg){:height="250px" width="600px"}
+
+The COVID-19 pandemic has renewed awareness of the importance of interregional transmission, namely how pathogens spread across geographic regions.
+Traditionally, transmission has been inferred from human mobility data and contact histories; however, it has been difficult to capture rare transmission events occurring between socially or geographically distant regions.
+
+In collaborative work with G. Isacchini, Q. Yu, and O. Hallatschek (University of California, Berkeley), we focused on the genomic data of SARS-CoV-2 and developed a mathematical method to directly infer importation transmission rates between regions from time-series data of allele frequencies.
+To account for observation errors and stochastic fluctuations in allele frequencies, we employed a hidden Markov model.
+
+Applying this method to SARS-CoV-2 data revealed not only how interregional infection networks change across viral variants, but also the time scales over which transmission occurs and how transmission speeds differ between regions.
+
+This study opens a new avenue for genome-based time-series analysis and is expected to contribute not only to future epidemiological monitoring and predictive models of pathogen spread, but also to a wide range of applications involving genomic data. The results were published in PNAS. The work was also highlighted as a promising approach in a PNAS Commentary.
+
+
+### 参考URL / References
+- [Plos Pathogens 20.4, e1012090. (2024)](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012090)
+- [PNAS 122 (48) e2500663122 (2025)](https://www.pnas.org/doi/10.1073/pnas.2500663122)
 - [Featured in a PNAS Commentary](https://www.pnas.org/doi/10.1073/pnas.2533093123).
+
 
 ---------------------------
 
