@@ -68,6 +68,7 @@ permalink: /research_jp/
 - [Genetics, Volume 219, Issue 4 (2021)](https://academic.oup.com/genetics/article/219/4/iyab135/6363801)
 - [Plos Pathogens 20.4, e1012090. (2024)](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012090)
 - [PNAS 122 (48) e2500663122 (2025)](https://www.pnas.org/doi/10.1073/pnas.2500663122)
+- Featured in a PNAS Commentary (https://www.pnas.org/doi/10.1073/pnas.2533093123).
 
 ---------------------------
 
