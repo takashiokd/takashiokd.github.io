@@ -62,12 +62,12 @@ Such non-classical evolutionary laws are now beginning to be observed in fast-ev
 The COVID-19 pandemic has renewed awareness of the importance of interregional transmission, namely how pathogens spread across geographic regions.
 Traditionally, transmission has been inferred from human mobility data and contact histories; however, it has been difficult to capture rare transmission events occurring between socially or geographically distant regions.
 
-In collaborative work with G. Isacchini, Q. Yu, and O. Hallatschek (University of California, Berkeley), we developed a mathematical method to directly infer importation transmission rates between regions from time-series data of allele frequencies.
+In collaborative work with G. Isacchini, Q. Yu, and O. Hallatschek (University of California, Berkeley), we developed a mathematical method to directly **infer importation transmission rates between regions** from time-series data of allele frequencies.
 To account for observation errors and stochastic fluctuations in allele frequencies, we employed a hidden Markov model.
 
 Applying this method to SARS-CoV-2 data revealed not only how interregional infection networks change across viral variants, but also the time scales over which transmission occurs and how transmission speeds differ between regions.
 
-This study opens a new avenue for genome-based time-series analysis and is expected to contribute not only to future epidemiological monitoring and predictive models of pathogen spread, but also to a wide range of applications. The study was published in PNAS (2025) and also highlighted as a promising approach in a PNAS Commentary.
+This study opens a new avenue for genome-based time-series analysis and is expected to contribute not only to future epidemiological monitoring and predictive models of pathogen spread, but also to a wide range of applications. The study was published in PNAS (2025) and also **highlighted as a promising approach in a PNAS Commentary**.
 
 
 ### 参考URL / References
